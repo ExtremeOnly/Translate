@@ -22,13 +22,13 @@ AccountancyCodeAsset = Kod księgowości (majątek)
 AccountancyCodeDepreciationAsset = Kod księgowości (rachunek aktywów amortyzacyjnych)
 AccountancyCodeDepreciationExpense = Kod księgowości (rachunek kosztów amortyzacji)
 NewAssetType=Nowy typ majątku
-AssetsTypeSetup=Asset type setup
-AssetTypeModified=Asset type modified
+AssetsTypeSetup=Konfiguracja typu aktywów
+AssetTypeModified=Zmodyfikowano typ zasobu
 AssetType=Typ majątku
 AssetsLines=Majątek
 DeleteType=Usuń
-DeleteAnAssetType=Delete an asset type
-ConfirmDeleteAssetType=Are you sure you want to delete this asset type?
+DeleteAnAssetType=Usuń typ zasobu
+ConfirmDeleteAssetType=Czy na pewno chcesz usunąć ten typ zasobu?
 ShowTypeCard=Pokaż typu ' %s'
 
 # Module label 'ModuleAssetsName'
@@ -42,7 +42,7 @@ ModuleAssetsDesc = Opis majątku
 AssetsSetup = Ustawienia majątku
 Settings = Ustawienia
 AssetsSetupPage = Strona konfiguracji majątku
-ExtraFieldsAssetsType = Complementary attributes (Asset type)
+ExtraFieldsAssetsType = Atrybuty uzupełniające (typ zasobu)
 AssetsType=Typ majątku
 AssetsTypeId=ID typu majątku
 AssetsTypeLabel=Etykieta typu majątku
